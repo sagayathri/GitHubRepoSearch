@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub_Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Language</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="search">Search</string>
+    <string name="number_of_forks">Number Of Forks</string>
+    <string name="owned_by">Owned By</string>
+    <string name="number_of_open_issues">Number Of Open Issues</string>
+    <string name="repo_url">Repo URL</string>
+    <string name="created_on">Created On</string>
+    <string name="description">Description</string>
+</resources>
